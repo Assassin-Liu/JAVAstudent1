@@ -27,6 +27,9 @@ SSM框架搭建
 
 （4）SpringMVC配置文件：springmvc.xml：
 见resources/springmvc.xml.
+数据交互（采用RESTFUL　ＡＰＩ风格）
+ (1)REST 全称：REpresentational State Transfer，英文翻译过来就是“表现层状态转化”。
+RESTful：用URL定位资源，用HTTP动词（GET，POST，PUT，DELETE）描述操作。
 
 总结：本项目代码只完成了SSM框架搭建，以及数据库建表，还没有做到将两者完美贯通连接，程序依然有些问题，比如注册用户和管理数据无法连接数据库导致功能缺失，但我还是很自豪，学到了很多，意识到了与17级学长们的差距，即使加入不了实验室，个人也很满意了
  
